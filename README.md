@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hi there! I'm **[Badal]**, a passionate developer, AI enthusiast, and cloud practitioner.  
+Hi there! I'm **Badal**, a passionate developer, AI enthusiast, and cloud practitioner.  
 I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.
 
 ## 🛠️ Tech Stack
